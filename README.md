@@ -2,6 +2,12 @@
 
 This is a prof of concept of COFFLoader that can be used to load and run object file.
 
+## Usage:
+```shell
+x86_64-w64-mingw32-gcc -c test.c -o test.o
+
+COFFLoader.exe test.o go
+```
 ## Credits
 - [@TrustedSec - COFFLoader](https://github.com/trustedsec/COFFLoader)
 - [@Otterhacker - CoffLoader](https://otterhacker.github.io/Malware/CoffLoader.html)
