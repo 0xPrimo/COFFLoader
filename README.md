@@ -1,6 +1,6 @@
 # COFFLoader
 
-This is a prof of concept of COFFLoader that can be used to load and run an object file.
+This is a prof of concept of COFFLoader that can be used to load and run an object files.
 
 ## Usage:
 ```shell
